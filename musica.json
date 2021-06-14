@@ -1,0 +1,32 @@
+[
+  {
+    "platform":"spotify",
+    "id":"6gr7Wcb6w0DxDhEpzOp6Ct",
+    "title":"Lying Together",
+    "artist":"FKJ",
+    "artistLink":"https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z",
+    "album":"Lying Together",
+    "albumLink":"https://open.spotify.com/album/3e49AjYl1iYeOvAAC3GgKo",
+    "duration":"271"
+  },
+  {
+    "platform":"spotify",
+    "id":"0lnfcWRREvnGtXPP2ZDeq7",
+    "title":"Que Sera",
+    "artist":"Wax Tailor",
+    "artistLink":"https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG",
+    "album":"Tales of the Forgotten Melodies",
+    "albumLink":"https://open.spotify.com/album/1sWIbvCurzF7ZVFYWjLGQO",
+    "duration":"164"
+  },
+  {
+    "platform":"spotify",
+    "id":"29MvtOnoAULKQfEKAPCbja",
+    "title":"Southern Man",
+    "artist":"Akshin Alizadeh",
+    "artistLink":"https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy",
+    "album":"Street Bangerz Volume 8",
+    "albumLink":"https://open.spotify.com/album/5KdKwVnwqDBduNNwOcLcKj",
+    "duration":"237"
+  }
+]
