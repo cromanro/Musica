@@ -7,7 +7,8 @@
     "artistLink":"https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z",
     "album":"Lying Together",
     "albumLink":"https://open.spotify.com/album/3e49AjYl1iYeOvAAC3GgKo",
-    "duration":"271"
+    "duration":"271",
+    "trackLink":"https://open.spotify.com/track/6gr7Wcb6w0DxDhEpzOp6Ct"
   },
   {
     "platform":"spotify",
@@ -17,7 +18,8 @@
     "artistLink":"https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG",
     "album":"Tales of the Forgotten Melodies",
     "albumLink":"https://open.spotify.com/album/1sWIbvCurzF7ZVFYWjLGQO",
-    "duration":"164"
+    "duration":"164",
+    "trackLink":"https://open.spotify.com/track/0lnfcWRREvnGtXPP2ZDeq7"
   },
   {
     "platform":"spotify",
@@ -27,6 +29,7 @@
     "artistLink":"https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy",
     "album":"Street Bangerz Volume 8",
     "albumLink":"https://open.spotify.com/album/5KdKwVnwqDBduNNwOcLcKj",
-    "duration":"237"
+    "duration":"237",
+    "trackLink":"https://open.spotify.com/track/29MvtOnoAULKQfEKAPCbja"
   }
 ]
